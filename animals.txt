@@ -1,0 +1,10 @@
+mammal dolphin
+mammal dog
+fish tuna
+bird hummingburd
+amphibian frog
+reptile alligator
+reptile iguana
+amphibian salamander
+bird falcon
+fish whale
